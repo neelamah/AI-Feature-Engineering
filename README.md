@@ -34,7 +34,7 @@ Type:-
     Neural Networks
 
     🔹 Standardization
-    (x−mean)/std
+    (x−mean)/std    
     🔹 Min-Max Scaling
     (x−min)/(max−min)
     🔹 Robust Scaling
@@ -74,3 +74,8 @@ Choosing important features.
     UMAP
 
 
+
+Important concepts:-
+ColumnTransformer 
+pipeline
+multicolarity
